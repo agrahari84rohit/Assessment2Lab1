@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Dog Image Generator preview</title>
+  <desc id="desc">A simple app preview showing a dog image card and a button.</desc>
+  <rect width="960" height="540" fill="#0f172a"/>
+  <rect x="70" y="70" width="820" height="400" rx="28" fill="#111827" stroke="#38bdf8" stroke-width="3"/>
+  <text x="120" y="150" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">Dog Image Generator</text>
+  <text x="120" y="210" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22">A random dog image loads on startup and updates with a button click.</text>
+  <rect x="120" y="250" width="240" height="54" rx="12" fill="#38bdf8"/>
+  <text x="180" y="284" text-anchor="middle" fill="#082f49" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Fetch another dog</text>
+  <rect x="430" y="160" width="390" height="240" rx="18" fill="#1f2937" stroke="#475569"/>
+  <rect x="458" y="190" width="334" height="180" rx="14" fill="#334155"/>
+  <circle cx="540" cy="260" r="40" fill="#fde68a"/>
+  <circle cx="640" cy="260" r="40" fill="#fde68a"/>
+  <circle cx="525" cy="247" r="8" fill="#111827"/>
+  <circle cx="625" cy="247" r="8" fill="#111827"/>
+  <path d="M520 325 Q580 285 640 325" fill="none" stroke="#fca5a5" stroke-width="8" stroke-linecap="round"/>
+  <text x="458" y="410" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="18">Loading / dog image area</text>
+</svg>
