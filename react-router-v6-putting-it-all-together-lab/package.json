@@ -1,0 +1,32 @@
+{
+  "name": "react-hooks-react-router-routes-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.4",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "jsdom": "^25.0.0",
+    "json-server": "^1.0.0-beta.2",
+    "vite": "^8.0.16",
+    "vitest": "^4.1.8"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "server": "json-server --watch db.json --port 4000",
+    "test": "vitest",
+    "preview": "vite preview"
+  }
+}

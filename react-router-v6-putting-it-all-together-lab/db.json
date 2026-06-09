@@ -1,0 +1,124 @@
+{
+  "directors": [
+    {
+      "id": "2a41340f-df88-4000-8462-54bb68ba8028",
+      "name": "Scott Derrickson",
+      "bio": "Scott Derrickson is an American director, screenwriter, and producer known for his work in the horror and supernatural genres. He gained recognition for directing 'Doctor Strange' in the Marvel Cinematic Universe, showcasing his unique visual style and storytelling. His earlier works like 'Sinister' and 'The Exorcism of Emily Rose' earned critical acclaim for blending horror with psychological and legal drama elements.",
+      "movies": [
+        {
+          "id": "2121bf84-f17b-45eb-85a4-7a4d3fd03521",
+          "title": "Doctor Strange",
+          "time": 115,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": "69c025f2-1295-447a-95e8-b7b81d5c6873",
+          "title": "Sinister",
+          "time": 110,
+          "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+          ]
+        },
+        {
+          "id": "916bf0fb-9b38-4b1e-95a8-e04546ed40b2",
+          "title": "The Exorcism of Emily Rose",
+          "time": 122,
+          "genres": [
+            "Horror",
+            "Drama",
+            "Thriller"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "341ec54e-afd7-43c1-8a14-3245b2573ca5",
+      "name": "Mike Mitchell",
+      "bio": "Mike Mitchell is an American film director, producer, and voice actor known for his work in family-friendly films and animated features. His directing credits include 'Trolls,' celebrated for its vibrant visuals and musical storytelling. Mitchell also directed 'Sky High' and 'Alvin and the Chipmunks: Chipwrecked,' showcasing his talent for blending humor, adventure, and heart in family entertainment.",
+      "movies": [
+        {
+          "id": "3bfd3a5d-68b5-4754-be8a-a61ff1b0cd3e",
+          "title": "Trolls",
+          "time": 92,
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": "5ec02040-8f77-4f2a-bec8-3233de8d8668",
+          "title": "Alvin and the Chipmunks: Chipwrecked",
+          "time": 87,
+          "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Musical"
+          ]
+        },
+        {
+          "id": "60420348-be1d-4c9e-9456-f811567e3a4f",
+          "title": "Sky High",
+          "time": 100,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Family",
+            "Sci-Fi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "552ed726-c613-479c-af4a-650b2305d858",
+      "name": "Edward Zwick",
+      "bio": "Edward Zwick is an American filmmaker and producer acclaimed for directing epic historical dramas and action films. He is known for movies like 'Blood Diamond' and 'The Siege,' which explore complex moral and political themes. Zwick’s storytelling is characterized by rich character development and social commentary, earning him recognition for his thoughtful approach to filmmaking.",
+      "movies": [
+        {
+          "id": "fb79aae4-93d3-466d-8d8e-14c09b2ffafc",
+          "title": "Jack Reacher: Never Go Back",
+          "time": 118,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Crime",
+            "Mystery",
+            "Thriller"
+          ]
+        },
+        {
+          "id": "d7646cf8-81f9-4846-b973-756bb54781c4",
+          "title": "Blood Diamond",
+          "time": 143,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Thriller",
+            "War"
+          ]
+        },
+        {
+          "id": "523df8a9-0528-4958-be41-747d56b09d34",
+          "title": "The Siege",
+          "time": 116,
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+          ]
+        }
+      ]
+    }
+  ]
+}
