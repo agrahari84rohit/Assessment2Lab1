@@ -1,0 +1,53 @@
+.app-shell {
+  display: grid;
+  gap: 1.25rem;
+  padding: 2rem;
+}
+
+.panel {
+  border-radius: 24px;
+  padding: 1.25rem;
+  background: rgba(15, 23, 42, 0.92);
+  border: 1px solid rgba(148, 163, 184, 0.18);
+  box-shadow: 0 18px 35px rgba(15, 23, 42, 0.32);
+}
+
+.hero-card {
+  background: linear-gradient(135deg, rgba(56, 189, 248, 0.15), rgba(168, 85, 247, 0.14));
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.35em;
+  font-size: 0.72rem;
+  color: #c4b5fd;
+}
+
+.lede {
+  color: #dbeafe;
+  max-width: 42rem;
+}
+
+.form-card {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.form-card label {
+  font-weight: 600;
+  color: #eff6ff;
+}
+
+.form-card input {
+  border-radius: 12px;
+  border: 1px solid rgba(148, 163, 184, 0.4);
+  background: rgba(15, 23, 42, 0.82);
+  color: #eff6ff;
+  padding: 0.8rem 0.9rem;
+  font: inherit;
+}
+
+.helper-text {
+  color: #cbd5e1;
+  font-size: 0.95rem;
+}
